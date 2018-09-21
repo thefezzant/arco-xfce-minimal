@@ -2,7 +2,7 @@
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-xfce
+	git clone https://github.com/arcolinuxb/arco-xfce-minimal
 
 # Follow installation tutorials on
 
