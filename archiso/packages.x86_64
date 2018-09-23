@@ -458,6 +458,17 @@ yay-bin
 #yaourt
 
 #############################
+#Games
+#############################
+
+#steam
+#steam-native-runtime
+#lutris
+#sauerbraten
+#xonotic
+
+
+#############################
 #arcolinux_repo for arcolinux
 #arcolinux-applications-git
 arcolinux-arc-themes-git
