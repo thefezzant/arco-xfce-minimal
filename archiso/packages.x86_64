@@ -278,11 +278,7 @@ ttf-dejavu
 #lightdm
 accountsservice
 lightdm
-#lightdm-gtk-greeter
-#lightdm-gtk-greeter-settings
 
-#login manager
-#slim
 
 #lx-applications
 #lxappearance-obconf
@@ -445,7 +441,6 @@ neofetch
 #oh-my-zsh-git
 #oomox
 #package-query
-#packer
 pamac-aur
 #peek
 #pulseaudio-equalizer-ladspa
@@ -461,9 +456,6 @@ trizen
 yad
 yay-bin
 #yaourt
-
-#xfce4
-#xfpanel-switch
 
 #############################
 #arcolinux_repo for arcolinux
