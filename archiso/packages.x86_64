@@ -154,7 +154,7 @@ pulseaudio-bluetooth
 avahi
 nss-mdns
 mobile-broadband-provider-info
-#modemmanager
+modemmanager
 networkmanager
 network-manager-applet
 networkmanager-openconnect
