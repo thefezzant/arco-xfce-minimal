@@ -256,7 +256,7 @@ vlc
 #xcursor-simpleandsoft
 
 #fonts
-#adobe-source-sans-pro-fonts
+adobe-source-sans-pro-fonts
 awesome-terminal-fonts
 #cantarell-fonts
 ckbcomp
@@ -264,10 +264,10 @@ noto-fonts
 #terminus-font
 #ttf-bitstream-vera
 ttf-dejavu
-#ttf-droid
+ttf-droid
 #ttf-inconsolata
 #ttf-liberation
-#ttf-roboto
+ttf-roboto
 #ttf-ubuntu-font-family
 
 #i3wm
