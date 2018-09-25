@@ -305,7 +305,7 @@ bash-completion
 #catfish
 #cmatrix
 #cool-retro-term
-#dconf-editor
+dconf-editor
 dialog
 #dmidecode
 #evince
@@ -314,15 +314,15 @@ file-roller
 git
 gksu
 #glances
-#gnome-disk-utility
+gnome-disk-utility
 gnome-keyring
 #gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
-#gparted
+gparted
 #gpick
 #gtop
-#hardinfo
+hardinfo
 #hddtemp
 #htop
 #hunspell
@@ -435,7 +435,7 @@ downgrade
 #font-manager
 #glxinfo
 #google-talkplugin
-#grub-customizer
+grub-customizer
 hardcode-fixer-git
 inxi
 menulibre
@@ -474,7 +474,7 @@ yay-bin
 
 #############################
 #arcolinux_repo for arcolinux
-#arcolinux-applications-git
+arcolinux-applications-git
 arcolinux-arc-themes-git
 #arcolinux-awesome-git
 arcolinux-bin-git
