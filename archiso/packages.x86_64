@@ -245,7 +245,7 @@ scrot
 termite
 #tint2
 #transmission-gtk
-#variety
+variety
 vlc
 
 #conky
@@ -517,7 +517,7 @@ arcolinux-slimlock-themes-git
 arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
-#arcolinux-variety-git
+arcolinux-variety-git
 arcolinux-wallpapers-git
 arcolinux-xfce4-panel-profiles-git
 arcolinux-xfce-thunar-git
