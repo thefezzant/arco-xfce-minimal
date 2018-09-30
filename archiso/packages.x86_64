@@ -260,7 +260,6 @@ vlc
 adobe-source-sans-pro-fonts
 awesome-terminal-fonts
 #cantarell-fonts
-ckbcomp
 noto-fonts
 #terminus-font
 #ttf-bitstream-vera
@@ -588,6 +587,7 @@ xfce4-panel-profiles
 
 #Needed for Calamares installer
 calamares
+ckbcomp
 networkmanager
 upower
 kcoreaddons
