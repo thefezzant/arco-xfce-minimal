@@ -1,8 +1,8 @@
-# ArcoLinux BYOI Xfce Minimal desktop
+# ArcoLinux BYOI Gnome Minimal desktop
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-xfce-minimal
+	git clone https://github.com/arcolinuxb/arco-gnome-minimal
 
 # Follow installation tutorials on
 
