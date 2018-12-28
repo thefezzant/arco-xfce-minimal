@@ -18,7 +18,7 @@
 #Setting variables
 #Let us change the name"
 #First letter of desktop small
-desktop="gnome-min"
+desktop="xfce-min"
 
 #build.sh
 oldname1="iso_name=arcolinux"
