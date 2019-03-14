@@ -217,7 +217,7 @@ poppler-qt5
 ###########################
 
 #applications
-#atom
+atom
 #catfish
 #chromium
 #compton
@@ -226,10 +226,10 @@ deadbeef
 dmenu
 #evolution
 feh
-#firefox
+firefox
 #flashplugin
 #galculator
-geany
+#geany
 #gimp
 gmrun
 #gsimplecal
@@ -237,17 +237,18 @@ gmrun
 imagemagick
 #inkscape
 #libreoffice-fresh
-meld
+#meld
 #nitrogen
 numlockx
 #pragha
 #qbittorrent
-scrot
+#scrot
 #simplescreenrecorder
 termite
 #tint2
-variety
+#variety
 vlc
+wine
 
 #conky
 #jq
@@ -275,7 +276,7 @@ ttf-roboto
 #i3blocks
 
 #icons
-#arc-icon-theme
+arc-icon-theme
 #gnome-icon-theme
 
 #lightdm
@@ -382,8 +383,8 @@ xapps
 #xcape
 xdg-desktop-portal-gtk
 #xfburn
-youtube-dl
-zenity
+#youtube-dl
+#zenity
 #zsh
 #zsh-completions
 #zsh-syntax-highlighting
@@ -394,8 +395,8 @@ zenity
 #############################
 
 #applications
-vivaldi
-vivaldi-codecs-ffmpeg-extra-bin
+#vivaldi
+#vivaldi-codecs-ffmpeg-extra-bin
 
 #cursors
 #breeze-cursors-lh
@@ -405,8 +406,8 @@ xcursor-breeze
 #xcursor-vanilla-dmz-aa
 
 #fonts
-#ttf-font-awesome
-#ttf-ms-fonts
+ttf-font-awesome
+ttf-ms-fonts
 
 #i3
 #i3-gaps-next-git
@@ -448,7 +449,7 @@ hardcode-fixer-git
 inxi
 menulibre
 mintstick-git
-mugshot
+#mugshot
 neofetch
 #oh-my-zsh-git
 #oomox
@@ -458,7 +459,7 @@ pamac-aur
 #python-pywal
 #python-pystache
 #screenkey
-sublime-text-dev
+#sublime-text-dev
 #temps
 #tmux
 trizen
@@ -473,7 +474,7 @@ yay-bin
 #############################
 
 #steam
-#steam-native-runtime
+steam-native-runtime
 #lutris
 #sauerbraten
 #xonotic
@@ -567,7 +568,7 @@ xfwm4-themes
 #mousepad
 #orage
 #parole
-ristretto
+#ristretto
 thunar-archive-plugin
 thunar-media-tags-plugin
 #xfburn
